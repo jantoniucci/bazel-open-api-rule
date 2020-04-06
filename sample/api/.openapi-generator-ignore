@@ -1,0 +1,7 @@
+pom.xml
+README.md
+.openapi-generator
+.openapi-generator/VERSION
+src/main/resources/application.properties
+src/main/java/virtualBank/savingsAccountServer/OpenAPI2SpringBoot.java
+src/main/java/virtualBank/savingsAccountServer/api/*ApiController.java
